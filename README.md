@@ -1,5 +1,5 @@
 # Todo-App
-[LIVE LINK]([https://alokverma-todoapp.netlify.app/](https://profound-bunny-418de8.netlify.app/)https://profound-bunny-418de8.netlify.app/)
+[LIVE LINK](https://profound-bunny-418de8.netlify.app/)
 
 # Screenshot:
 
